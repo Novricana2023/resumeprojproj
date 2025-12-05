@@ -1,0 +1,11 @@
+# Core dependencies for your ATS Resume Optimizer
+gradio
+pandas
+numpy
+scikit-learn
+nltk
+pymongo
+pypdf
+python-docx
+sentence-transformers
+
